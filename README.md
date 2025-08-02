@@ -14,3 +14,9 @@
 - In Meals Database Class, after write the abstract class and extends RoomDatabase, it was suggested writting abstract function for Dao and the companion object.
 - It was suggested writting the line "viewBinding.lifecycleOwner = viewLifecycleOwner" in fragment to make update to UI automatically by LiveData when any change occurs.
 - Also, It was suggested some of UI updates to make it more suitable.
+
+
+
+
+https://github.com/user-attachments/assets/9148054f-d487-4c35-b5b9-67440005a897
+
