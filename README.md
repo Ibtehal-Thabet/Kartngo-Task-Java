@@ -11,8 +11,8 @@
 - Data Biding
 
 ## Proxy AI Uses:
-- In Meals Database Class, after write the abstract class and extends RoomDatabase, it was suggested writting abstract function for Dao and the companion object.
-- It was suggested writting the line "viewBinding.lifecycleOwner = viewLifecycleOwner" in fragment to make update to UI automatically by LiveData when any change occurs.
+- In Best Offers Fragment, after extends Fragment, it was suggested writting onCreateView function and in the body it initialized the viewModel variable and viewBinding .
+- In Meal View Model, it was suggested writting the body of function updateMealQuantity.
 - Also, It was suggested some of UI updates to make it more suitable.
 
 
